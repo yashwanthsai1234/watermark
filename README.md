@@ -2,7 +2,8 @@
 
 Implementation of watermarking for AI-generated summaries based on ["A Watermark for Large Language Models"](https://arxiv.org/abs/2301.10226) (Kirchenbauer et al., 2023).
 
-![Watermarking Process](watermark_diagram.png)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_m7ozsfm7ozsfm7oz" src="https://github.com/user-attachments/assets/605be67c-bb2a-4326-9b1f-0c88a3946d68" />
+
 
 ## Overview
 
