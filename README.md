@@ -118,11 +118,9 @@ This watermarking approach can be extended to:
 }
 ```
 
-## License
-
-MIT License
-
 ## Contact
+
+Reach me out via LinkedIn https://www.linkedin.com/in/yashwanth-sai-a8hud/
 
 Questions or feedback? Open an issue or reach out via [LinkedIn/Email].
 
